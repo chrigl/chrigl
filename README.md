@@ -3,6 +3,10 @@
 - Kubernetes
 - OpenStack
 
+:hearts:
+- :bicyclist:
+- :runner:
+
 <!--
 **chrigl/chrigl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
